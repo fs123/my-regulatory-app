@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-regulation-app
 
 ## Project setup
@@ -32,3 +33,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# my-regulatory-app
+Fun with vue &amp; regulatories
+>>>>>>> 9eeedea1d7ef3a274366e667b97cc112227502cd
