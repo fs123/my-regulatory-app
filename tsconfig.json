@@ -12,6 +12,7 @@
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
     "baseUrl": ".",
+    "resolveJsonModule": true,
     "types": [
       "webpack-env",
       "jest"
@@ -33,9 +34,11 @@
     "src/**/*.tsx",
     "src/**/*.vue",
     "tests/**/*.ts",
-    "tests/**/*.tsx", "src/store/modules/regulatories.js"
+    "tests/**/*.tsx", "src/store/modules/regulatories.ts",
+    "node_modules/vuetify/types"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "node_modules/^(?!vuetify/types).*$"
   ]
 }

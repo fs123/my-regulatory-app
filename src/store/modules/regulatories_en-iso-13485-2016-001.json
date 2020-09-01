@@ -13,15 +13,15 @@
 			"text": "3. Terms and definitions",
 			"content": [ 
 				{
-					"type": "Content",
+					"type": "TEXT",
 					"text": "For the purposes of this document, the terms and definitions given in ISO 9000 apply, together with the following.   The following terms, used in this edition of ISO 13485 to describe the supply chain, have been changed to reflect the vocabulary currently used:   supplier -------------> organization > customer   The term “organization” replaces the term “supplier” used in ISO 13485:1996, and refers to the unit to which this International Standard applies. Also, the term “supplier” now replaces the term “subcontractor”.   Throughout the text of this International Standard, wherever the term “product” occurs, it can also mean “service”.   Wherever requirements are specified as applying to “medical devices”, the requirements apply equally to related services as supplied by the organization.   The following definitions should be regarded as generic, as definitions provided in national regulations can differ slightly and take precedence."
 				},
 				{
-					"type": "Content",
+					"type": "TEXT",
 					"text": "For the purposes of this document, the terms and definitions given in ISO 9000 apply, together with the following."
 				},
 				{
-					"type": "Content",
+					"type": "TEXT",
 					"text": "The following terms, used in this edition of ISO 13485 to describe the supply chain, have been changed to reflect the vocabulary currently used:"
 				},
 				{
@@ -29,7 +29,7 @@
 					"text": "3.1 Active implantable medical device",
 					"content": [ 
 						{
-							"type": "Content",
+							"type": "TEXT",
 							"text": "active medical device which is intended to be totally or partially introduced, surgically or medically, into the human body or by medical intervention into a natural orifice, and which is intended to remain after the procedure"
 						}
 					]
@@ -46,15 +46,15 @@
 					"text": "4.1 Active implantable medical device",
 					"content": [ 
 						{
-							"type": "Content",
+							"type": "TEXT",
 							"text": "active medical device which is intended to be totally or partially introduced, surgically or medically, into the human body or by medical intervention into a natural orifice, and which is intended to remain after the procedure"
 						},
 						{
-							"type": "Content",
+							"type": "TEXT",
 							"text": "For the purposes of this document, the terms and definitions given in ISO 9000 apply, together with the following.   The following terms, used in this edition of ISO 13485 to describe the supply chain, have been changed to reflect the vocabulary currently used:   supplier -------------> organization > customer   The term “organization” replaces the term “supplier” used in ISO 13485:1996, and refers to the unit to which this International Standard applies. Also, the term “supplier” now replaces the term “subcontractor”.   Throughout the text of this International Standard, wherever the term “product” occurs, it can also mean “service”.   Wherever requirements are specified as applying to “medical devices”, the requirements apply equally to related services as supplied by the organization.   The following definitions should be regarded as generic, as definitions provided in national regulations can differ slightly and take precedence."
 						},
 						{
-							"type": "Content",
+							"type": "TEXT",
 							"text": "For the purposes of this document, the terms and definitions given in ISO 9000 apply, together with the following."
 						}
 					]
