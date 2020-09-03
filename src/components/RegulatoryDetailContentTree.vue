@@ -11,7 +11,6 @@
       dense
       :rounded="true"
       :hoverable="true"
-      :open-all="true"
       :items="items"
       :search="search"
     >
